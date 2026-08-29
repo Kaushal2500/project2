@@ -1,3 +1,3 @@
 # New project 
 
-This is new project which is created on local disk
+This is new project which is created on local disk.
